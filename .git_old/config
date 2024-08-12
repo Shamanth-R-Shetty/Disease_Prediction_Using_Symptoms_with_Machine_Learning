@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Shamanth-R-Shetty/Disease_Prediction_Using_Symptoms_with_Machine_Learning.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
